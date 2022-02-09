@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a fervent beliver that the answer to almost all technological problems can be found in technology. I can help find the solutions you are looking for. You can see some examples [here](https://blog.webdelving.com/).
+
 <!--
 **borisyordanov/borisyordanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
